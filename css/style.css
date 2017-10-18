@@ -1,0 +1,61 @@
+@font-face {
+	font-family: TFBuild;
+    src: url(../font/tf2build.ttf)
+}
+
+img {
+	width: 150px;
+	margin: 20px;
+	filter: grayscale(80%)
+}
+img:hover {
+	filter: none;
+}
+
+h3 {
+	font-family: TFBuild, Arial, Helvetica;
+	color: #EF9122;
+	margin-left: 10px;
+}
+
+.ofensive {
+	display: block;
+}
+
+.defensive {
+	display: block;
+}
+
+.support {
+	display: block;
+}
+
+.name {
+	font-family: TFBuild, Arial, Helvetica;
+	color: #F9F9F9;
+	font-weight: bold;
+	font-size: 15px;
+	position: absolute;
+}
+.of {
+	top: 80px;
+}
+
+.def {
+	top: 275px;
+}
+
+.supp {
+	top: 470px;
+}
+
+.scout, .heavy, .medic {
+	left: 40px;
+}
+
+.soldier, .demo, .snipah {
+	left: 230px;
+}
+.pyro, .engie, .spy {
+	left: 425px;
+}
