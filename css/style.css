@@ -2,6 +2,9 @@
 	font-family: TFBuild;
     src: url(../font/tf2build.ttf)
 }
+.container {
+	width: 620px;
+}
 
 img {
 	width: 150px;
