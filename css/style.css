@@ -23,6 +23,13 @@ h3 {
 	margin-left: 10px;
 }
 
+hr {
+	margin-left: 10px;
+	width: 545px;
+	border: 2px solid gray;
+	margin-top: -8px;
+}
+
 .ofensive {
 	display: block;
 }
