@@ -5,8 +5,10 @@
 
 img {
 	width: 150px;
+	height: 150px;
 	margin: 20px;
-	filter: grayscale(80%)
+	filter: grayscale(80%);
+	display: inline;
 }
 img:hover {
 	filter: none;
